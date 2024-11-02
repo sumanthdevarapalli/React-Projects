@@ -2,8 +2,8 @@ function ContactUs(){
 
     return(
         <>
-        <h1>This is ContactUs file</h1>
-        <p>this is contact us </p>
+        <h1>This is ContactUs Page</h1>
+
         </>
     )
 }
